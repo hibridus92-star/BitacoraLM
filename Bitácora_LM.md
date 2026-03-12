@@ -236,8 +236,6 @@ Posteriormente, realizamos una tarea de XPATH.
 
 ###---------------------------------------NOTA---------------------------------------
 
-
-
 ###Este día resolví junto a Miguel un problema con los repositorios de los módulos. Por esta razón, no aparecen commits de actualización de la bitácora previos a este día
 
 
