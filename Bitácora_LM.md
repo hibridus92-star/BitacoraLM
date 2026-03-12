@@ -225,9 +225,20 @@ Posteriormente, realizamos una tarea de XPATH.
 ## Viernes 06/03 
 ###Repasamos la  tarea de XPATH.
 
-### Lunes 08/03
+### Lunes 09/03
 
 ###Continuamos con el tema. Estuvimos viendo maneras de modificar el XSL.
+
+
+
+## Jueves 12/03
+###Comenzamos con la siguiente tarea de XSL.
+
+###---------------------------------------NOTA---------------------------------------
+
+
+
+###Este día resolví junto a Miguel un problema con los repositorios de los módulos. Por esta razón, no aparecen commits de actualización de la bitácora previos a este día
 
 
 
