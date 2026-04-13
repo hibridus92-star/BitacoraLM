@@ -246,5 +246,11 @@ Posteriormente, realizamos una tarea de XPATH.
 ###Hicimos el examen de Xpath y XSLT.
 
 
+### Lunes 13/04
+
+###Revisamos el examen de Xpath y XSLT.
+
+
+
 
 
