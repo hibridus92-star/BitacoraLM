@@ -231,7 +231,7 @@ Posteriormente, realizamos una tarea de XPATH.
 
 
 
-## Jueves 12/03
+### Jueves 12/03
 ###Comenzamos con la siguiente tarea de XSL.
 
 ###---------------------------------------NOTA---------------------------------------
@@ -241,6 +241,9 @@ Posteriormente, realizamos una tarea de XPATH.
 ### Lunes 23/03
 
 ###Esta primera hora del lunes la invertimos como repaso de cara al examen del jueves.  Estuvimos repasando la última tarea en común. 
+
+### Jueves 26/03 
+###Hicimos el examen de Xpath y XSLT.
 
 
 
