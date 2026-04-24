@@ -250,6 +250,16 @@ Posteriormente, realizamos una tarea de XPATH.
 
 ###Revisamos el examen de Xpath y XSLT.
 
+### Jueves 16/04 
+###Se discutió en clase las características del proyecto de desarrollo de la aplicación que vamos a llevar a cavo en conjunto.
+
+### Lunes 20/04
+
+###Tuvimos la primera reunión con el cliente. Recogimos información en base a la aplicación qye vamos a desarrollar para su empresa.
+
+### Jueves 23/04
+
+###Primera reunión del grupo, en la que analizamos conjuntamente los datos recopilados en la reunión previa con el cliente. En base a ella, realizamos una presentación con la arquitectura y tecnología que vamos a usa, plazo de presentación, y Requisitos funcionales y no funcionales. 
 
 
 
