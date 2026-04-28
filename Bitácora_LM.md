@@ -261,6 +261,16 @@ Posteriormente, realizamos una tarea de XPATH.
 
 ###Primera reunión del grupo, en la que analizamos conjuntamente los datos recopilados en la reunión previa con el cliente. En base a ella, realizamos una presentación con la arquitectura y tecnología que vamos a usa, plazo de presentación, y Requisitos funcionales y no funcionales. 
 
+### Viernes 24/04
+
+###Expusimos las transparencias del proyecto al cliente. En base a ello, apuntamos las modificaciones de la lista de requisitos funcionales y no funcionales.  
+
+### Lunes 27/04
+
+###Miguel nos explicó la nueva manera de evaluarnos de cara al final del curso. Básicamente, la nota será individual en base a las tareas de las unidades restantes. A su vez, dichas tareas se basarán en partes del proyecto que desarrollamos en conjunto. Además, la aportación de cada uno al proyecto ayudará a subir nota. 
+
+
+
 
 
 
