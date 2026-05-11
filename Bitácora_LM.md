@@ -269,6 +269,32 @@ Posteriormente, realizamos una tarea de XPATH.
 
 ###Miguel nos explicó la nueva manera de evaluarnos de cara al final del curso. Básicamente, la nota será individual en base a las tareas de las unidades restantes. A su vez, dichas tareas se basarán en partes del proyecto que desarrollamos en conjunto. Además, la aportación de cada uno al proyecto ayudará a subir nota. 
 
+### Jueves 30/04
+
+###Nos centramos en realizar diagramas en este día en vistas al calendario del proyecto.
+
+
+### Lunes 04/05
+
+###Miguel ha recalcado la importancia de redactar commits claros y bien organizados de cara a la bitácora del proyecto. De este modo, cualquier integrtante del grupo que se haya despistado en algún momento, puede ponerse al día y rengancharse. Además, se redefinió el diagrama de casos de uso. 
+
+
+### Jueves 07/05
+
+###Hicimos un repaso de los RA para aclarar cómo vamos a abordar cada parte del proyecto. Además, se evidenció el hecho de que no seguimos una metodología de trabajo como se debe( no se asumen roles, ni se adjudica la carga de trabajo correspondientemente) Una vez nos pusimos a analizar juntos el diagrma de clases en la Dayly Scrum, comprendimos mejor el planteamiento.  
+
+
+
+Cambiar de lugar pozo y coordenada de lugar, y enriquecerlo( mejorarlo con los atributos del XML de Fran 
+
+### Viernes 08/05
+
+###En la dayly scrum, tratamos de ajustarnos a nuestras tareas adjudicadas en Planners. Además, actualicé el XML desarrollado por Lorenzo, Gabriel y Juan Gabriel, y lo subi al repositorio del proyecto. 
+
+### Lunes 11/05
+
+###En la dayly scrum, echamos en falta el diagrama de clases que iba a terminar Carlos, el cual no estaba presente. Después, repasamos los archivos pertinentes a las pruebas unitarias. 
+
 
 
 
