@@ -295,6 +295,20 @@ Cambiar de lugar pozo y coordenada de lugar, y enriquecerlo( mejorarlo con los a
 
 ###En la dayly scrum, echamos en falta el diagrama de clases que iba a terminar Carlos, el cual no estaba presente. Después, repasamos los archivos pertinentes a las pruebas unitarias. 
 
+### Jueves 14/05
+
+###Permanecimos en nuestros equipos trabajando con las tareas pendientes en relación con el proyecto. 
+
+
+### Viernes 15/05
+
+###Seguimos trabajando en las tareas pertinentes de cara a centrarnos en la resolucion del proyecto. 
+
+### Lunes 18/05
+
+###Revisamos un error en el XML que subió Fran en el repositorio del proyecto, el cual es solo para realizar la tarea de XQUERRY. Se optó por eliminarla, en vistas a que el proyecto funciona con un XML distinto. Tras el recreo, repasamos el resto de tareas de EEDD. 
+
+
 
 
 
