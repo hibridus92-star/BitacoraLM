@@ -309,6 +309,24 @@ Cambiar de lugar pozo y coordenada de lugar, y enriquecerlo( mejorarlo con los a
 ###Revisamos un error en el XML que subió Fran en el repositorio del proyecto, el cual es solo para realizar la tarea de XQUERRY. Se optó por eliminarla, en vistas a que el proyecto funciona con un XML distinto. Tras el recreo, repasamos el resto de tareas de EEDD. 
 
 
+### Jueves 21/05
+
+###Se discutio en clase los criterios de evaluación del proyecto. Cada alumno deberá explicar un RA implicito el último día. 
+
+### Viernes 22/05
+
+###Se decidió posponer la presentación del proyecto al próximo viernes, último día de clase. 
+
+### Lunes 25/05
+
+###Cada uno de nosotros comenzó a estudiar el manual diseñado para conocer todos los RA presentes en el proyecto. 
+
+
+
+
+
+
+
 
 
 
