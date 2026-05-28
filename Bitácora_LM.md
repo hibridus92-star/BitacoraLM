@@ -321,6 +321,10 @@ Cambiar de lugar pozo y coordenada de lugar, y enriquecerlo( mejorarlo con los a
 
 ###Cada uno de nosotros comenzó a estudiar el manual diseñado para conocer todos los RA presentes en el proyecto. 
 
+### Jueves 28/05
+
+###Estuvimos haciendo los últimos preparativos de cara a la presentación de mañana. 
+
 
 
 
