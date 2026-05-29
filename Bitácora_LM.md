@@ -325,6 +325,9 @@ Cambiar de lugar pozo y coordenada de lugar, y enriquecerlo( mejorarlo con los a
 
 ###Estuvimos haciendo los últimos preparativos de cara a la presentación de mañana. 
 
+### Viernes 29/05
+
+###Se presentó el proyecto.
 
 
 
